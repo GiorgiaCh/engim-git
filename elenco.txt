@@ -1,4 +1,5 @@
 -Pane
--Latte
 -Futta
 -Verdura
+-Pesce
+-Olio
